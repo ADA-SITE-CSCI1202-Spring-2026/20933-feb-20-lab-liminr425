@@ -8,6 +8,7 @@ public class invoices {
         int quantity;
         double pricePerItem;
 
+
         Invoice(String partNumber, String partDescription, int quantity, double pricePerItem) {
             this.partNumber = partNumber;
             this.partDescription = partDescription;

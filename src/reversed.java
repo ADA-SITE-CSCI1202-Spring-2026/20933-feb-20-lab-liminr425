@@ -18,7 +18,6 @@ public class reversed {
 
         System.out.println("Original: " + text);
         System.out.println("Reversed: " + reverse(text));
-
         sc.close();
     }
 }
